@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenRecorder", "ScreenRecorder\ScreenRecorder.csproj", "{BCE4B353-3D2D-4F93-A430-617E7E9C0359}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScreenRecorderSetup", "ScreenRecorderSetup\ScreenRecorderSetup.vdproj", "{8AEA088C-747E-4EFE-8F4F-E34C3D5A27D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{BCE4B353-3D2D-4F93-A430-617E7E9C0359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE4B353-3D2D-4F93-A430-617E7E9C0359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE4B353-3D2D-4F93-A430-617E7E9C0359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEA088C-747E-4EFE-8F4F-E34C3D5A27D0}.Debug|Any CPU.ActiveCfg = Debug
+		{8AEA088C-747E-4EFE-8F4F-E34C3D5A27D0}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
